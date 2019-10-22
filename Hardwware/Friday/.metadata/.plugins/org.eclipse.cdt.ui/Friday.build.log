@@ -1,0 +1,10 @@
+10:58:07 **** Incremental Build of configuration Debug for project Friday ****
+make -j4 all 
+arm-none-eabi-size   Friday.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17384	     20	   2108	  19512	   4c38	Friday.elf
+Finished building: default.size.stdout
+ 
+
+10:58:08 Build Finished. 0 errors, 0 warnings. (took 1s.357ms)
+
